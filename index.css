@@ -8,6 +8,7 @@ p {
       margin-right: 6em;
       color: black;
       background-color:white;
+      width: 80%;
     }
     ul {
       display: grid;
@@ -23,3 +24,5 @@ table {
 thead {
 	text-align:left ;
 }
+
+
