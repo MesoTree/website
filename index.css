@@ -8,6 +8,7 @@ p {
       margin-right: 6em;
       color: black;
       background-color:white;
+      width: 80%;
     }
     ul {
       display: grid;
@@ -18,8 +19,19 @@ table {
    border-top: black 2px solid;
    border-bottom: black 2px solid;
    width: 80%;
+        padding: 0;
 }
 
 thead {
 	text-align:left ;
+        padding: 0;
+}
+
+
+tr,td {
+	padding:0;
+}
+th {
+	border-bottom: 1px solid black;
+        padding: 0;
 }
